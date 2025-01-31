@@ -12,7 +12,7 @@ let btns=["pink","yellow","blue","green"]
 let h3=document.querySelector("h3")
 
 
-document.addEventListener("keypress", function() 
+document.addEventListener("click", function() 
 {
   if (started==false) 
     {
